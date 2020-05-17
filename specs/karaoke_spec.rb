@@ -100,8 +100,6 @@ end
 
 
 
-#create add song function
 
-#remove add song
 
 end

@@ -7,12 +7,12 @@ def initialize(song, artist)
   @artist = artist
 end
 
-def play()
-  
-  if @room.capacity >= 1
-    return song
-  end
-end
+# def play()
+#
+#   if @room.capacity >= 1
+#     return song
+#   end
+# end
 
 
 

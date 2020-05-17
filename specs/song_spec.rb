@@ -22,10 +22,10 @@ def test_artist_name
   assert_equal("The Sugar Hill Gang", @song2.artist)
 end
 
-def test_play_song
-  result = @room1.play(@song1)
-  assert_equal("Wonderwall", result)
-end
+# def test_play_song
+#   result = @room1.play(@song1)
+#   assert_equal("Wonderwall", result)
+# end
 
 
 
